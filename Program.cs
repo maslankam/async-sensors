@@ -43,6 +43,7 @@ while(command != "exit"){
                     if(finished != null){
                         Console.WriteLine(finished.Result);
                     allTasks.Remove(finished);
+                    //some changes
                     }            
                 }
             break;
